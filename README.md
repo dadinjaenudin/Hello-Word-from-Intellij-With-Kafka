@@ -1,22 +1,22 @@
+
 ---
 tags: Confluent & Kafka
 ---
 
 # Hello Word from Intellij With Kafka
-
-> Github https://github.com/dadinjaenudin/Hello-Word-from-Intellij-With-Kafka
+Github [https://github.com/dadinjaenudin/Hello-Word-from-Intellij-With-Kafka](https://)
 
 # Install Mave
 Download Apache Maven
-> Extract zip 
-> Edit Path and Environment variable to maven\bin
+- Extract zip 
+- Edit Path and Environment variable to maven\bin
 
 
 # Install and prepare IntelliJ
 
 Download and install IntelliJ;
 
-> Install the IntelliJ IDEA Scala Plugin (Menu Item File | Settings -> Plugins -> Browse Repositories -> Search for Scala);
+- Install the IntelliJ IDEA Scala Plugin (Menu Item File | Settings -> Plugins -> Browse Repositories -> Search for Scala);
 
 Setting maven home directory
 File - Setting
